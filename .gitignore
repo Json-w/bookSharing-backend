@@ -1,0 +1,6 @@
+.gradle
+.idea
+gradle
+bookSharing-backend.iml
+bookSharing-backend.ipr
+bookSharing-backend.iws
